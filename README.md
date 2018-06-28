@@ -12,3 +12,5 @@ The audio to image conversion itself is done using the LibROSA python package wh
 
 Spectrograms are by default generated as color images which means the have 3 channels (RGB). In the interest of keeping things light and fast, I chose to first convert each image to Gre-Scale (only 1 channel) and then to downsize each image. 
 
+## Example Spectrograms
+![bird](images/bird.png)
