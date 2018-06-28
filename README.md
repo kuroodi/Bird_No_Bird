@@ -12,5 +12,10 @@ The audio to image conversion itself is done using the LibROSA python package wh
 
 Spectrograms are by default generated as color images which means the have 3 channels (RGB). In the interest of keeping things light and fast, I chose to first convert each image to Gre-Scale (only 1 channel) and then to downsize each image. 
 
-## Example Spectrograms
+## Example Spectrogram
 ![bird](images/bird.png)
+
+Here's a sneak peak of what an actual Spectrogram of an an audio file that contains a bird chirp looks like. If you squit especially hard at the 2 circles in the image, you'll see slight hook shaped patterns which represent slight time varying signals. That's a bird chirp!
+
+
+## Model
