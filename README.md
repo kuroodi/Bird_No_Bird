@@ -38,6 +38,8 @@ The CNN was designed using Keras with a Tensor Flow backend. All data was stored
 
 ## Results
 
+The data was almost a perfect 50/50 split between 'Bird' and 'Not Bird' cases which was really nice. I was ultimetly able to get ~76% accuracy on a 5% holdout set that the CNN had never seen before.
+
 ## Future Work
 There's always more to do!
 
