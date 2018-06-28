@@ -39,3 +39,7 @@ The CNN was designed using Keras with a Tensor Flow backend. All data was stored
 ## Results
 
 ## Future Work
+There's always more to do!
+
+I'd love to go back and try other feature extractors from LibROSA to see if its possible to tease out more signal. I'd also like to see if there would be any way to pre-process the audio itself to try and filter out certain bands of noice. On the neural net side, there's always more hyper-parameter tuning to do.
+
