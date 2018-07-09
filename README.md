@@ -1,4 +1,4 @@
-## Bird Chirp Detector - Anomaly Detection Using Deep Learning
+## Bird Chirp Detector - Audio Detection Using Deep Learning
 
 This project is an audio based anomaly detector that uses deep learning to determine whether or not a bird chirped in a given audio file. The data consists of 20K raw audio files sourced from the BirdVox project(collaboration between Cornell and NYU). Each file is a simple 10 second audio clip recorded by remote audio monitoring devices placed throughout a forest near Ithaca, NY. 
 
